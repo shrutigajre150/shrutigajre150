@@ -6,7 +6,7 @@
 - 🤖 Worked on **robotics data collection at Meta**, capturing and quality-checking multimodal teleoperation data for robotics AI models
 - 📊 2 years as a **Data Analyst** for UnitedHealthcare, on AWS data pipelines and data quality
 - 🌱 Currently sharpening: backend services, LLM evaluation, and robotics data platforms
-- 📍 Bay Area, CA · open to AI engineer, data, and robotics data roles
+- 📍 Bay Area, CA 
 
 ## 🚀 Featured project
 
